@@ -17,4 +17,4 @@ dependencies = [
 ]
 
 [project.scripts]
-wyscout-entropy = "wyscout_entropy.cli:main"
+wyscout-entropy = "xg_entropy.cli:main"
